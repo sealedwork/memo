@@ -1,10 +1,10 @@
 @media screen and (max-width: 768px) {
   html {
-	font-size: 17px;
+	font-size: 18px;
     width: 90%;
   }
 }
-@media screen and (min-width: 768px) and (max-width: 1170){
+@media screen and (min-width: 768px) and (max-width: 1170px){
   html {
 	font-size: 19px;
     width: 77%;
